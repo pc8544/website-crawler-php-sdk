@@ -1,7 +1,7 @@
 # Website Crawler PHP SDK
 
 A PHP SDK for interacting with the [WebsiteCrawler.org](https://www.websitecrawler.org) API.  
-This library makes it easy to start crawl jobs on WebsiteCrawler programmatically and fetch crawl data, check crawl status, and manage jobs.
+This library makes it easy to start crawl jobs on WebsiteCrawler programmatically and fetch LLM-ready JSON format crawl data, check crawl status, and manage jobs.
 
 
 ---
