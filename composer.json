@@ -1,0 +1,16 @@
+{
+  "name": "pc8544/website-crawler-php-sdk",
+  "description": "The official PHP SDK for the WebsiteCrawler.org API",
+  "type": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "WebsiteCrawler\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
